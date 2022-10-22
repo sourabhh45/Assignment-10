@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Assignment
+        </title>
+        <link rel="stylesheet" href="E:\vs\layout.css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://kit.fontawesome.com/ffb5df5ddd.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="logoh">
+            <div class="site">Site</div>
+            <div class="logo">Logo</div>
+        </div>
+     <div class="container">
+        <a href="#">Home</a>
+        <a href="#">Product</a>
+        <a href="#">Company</a>
+        <a href="#">Contact</a>
+        <i class="fa fa-facebook"></i>
+     </div> 
+
+      <div class="header">
+         <p >Header Image</p>
+      </div> 
+
+      <div class="row">
+        <div class="column">
+            <h3>About</h3>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Suspendisse ut lobortis nunc. Fusce sed molestie dolor. 
+            Proin ut felis eget sapien fringilla volutpat condimentum id neque. 
+            Nam eu rhoncus mauris, eu vestibulum libero. Pellentesque viverra, 
+            est a varius dapibus, enim justo euismod nisi, vel maximus nulla sem 
+            sit amet nulla. Nunc libero nisi, faucibus nec condimentum blandit, 
+            sagittis vitae tellus. Morbi a euismod lacus, ac dapibus velit. 
+            Nunc mollis nisl vel quam scelerisque, in convallis leo sollicitudin.
+        </div>
+        <div class="column">
+            <h3>Company</h3>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Suspendisse ut lobortis nunc. Fusce sed molestie dolor. 
+            Proin ut felis eget sapien fringilla volutpat condimentum id neque. 
+            Nam eu rhoncus mauris, eu vestibulum libero. Pellentesque viverra, 
+            est a varius dapibus, enim justo euismod nisi, vel maximus nulla sem 
+            sit amet nulla. Nunc libero nisi, faucibus nec condimentum blandit, 
+            sagittis vitae tellus. Morbi a euismod lacus, ac dapibus velit. 
+            Nunc mollis nisl vel quam scelerisque, in convallis leo sollicitudin.            
+        </div>
+        <div class="column">
+            <h3>Services</h3>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Suspendisse ut lobortis nunc. Fusce sed molestie dolor. 
+            Proin ut felis eget sapien fringilla volutpat condimentum id neque. 
+            Nam eu rhoncus mauris, eu vestibulum libero. Pellentesque viverra, 
+            est a varius dapibus, enim justo euismod nisi, vel maximus nulla sem 
+            sit amet nulla. Nunc libero nisi, faucibus nec condimentum blandit, 
+            sagittis vitae tellus. Morbi a euismod lacus, ac dapibus velit. 
+            Nunc mollis nisl vel quam scelerisque, in convallis leo sollicitudin.
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="column1">
+            <h1>Content</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Suspendisse ut lobortis nunc. Fusce sed molestie dolor. 
+            Proin ut felis eget sapien fringilla volutpat condimentum id neque. 
+            Nam eu rhoncus mauris, eu vestibulum libero. Pellentesque viverra, 
+            est a varius dapibus, enim justo euismod nisi, vel maximus nulla sem 
+            sit amet nulla. Nunc libero nisi, faucibus nec condimentum blandit, 
+            sagittis vitae tellus. Morbi a euismod lacus, ac dapibus velit. 
+            Nunc mollis nisl vel quam scelerisque, in convallis leo sollicitudin.
+        </p>
+        <h2>Sub Header</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Suspendisse ut lobortis nunc. Fusce sed molestie dolor. 
+            Proin ut felis eget sapien fringilla volutpat condimentum id neque. 
+            Nam eu rhoncus mauris, eu vestibulum libero. Pellentesque viverra, 
+            est a varius dapibus, enim justo euismod nisi, vel maximus nulla sem 
+            sit amet nulla. Nunc libero nisi, faucibus nec condimentum blandit, 
+            sagittis vitae tellus. Morbi a euismod lacus, ac dapibus velit. 
+            Nunc mollis nisl vel quam scelerisque, in convallis leo sollicitudin.
+        </p>
+    </div>
+        </div>
+        <div class="column2">
+            <h1>Navigation</h1>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">Product</a>
+                    <div class="dropdown-content">
+                      <a href="#">Product 1</a>
+                      <a href="#">Product 2</a>
+                      <a href="#">Product 3</a>
+                    </div>
+                  </li>
+                  <li class="dropdown">
+                    <a href="#" class="dropbtn">Comapny</a>
+                    <div class="dropdown-content">
+                      <a href="#">Comapny 1</a>
+                      <a href="#">Comapny 2</a>
+                      <a href="#">Comapny 3</a>
+                    </div>
+                  </li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+</div>
+<div>
+    <div class="gallery">
+        Gallery
+    </div>
+</div>
+
+<div class="row1">
+    
+    <div class="image2">
+        Gallery Image
+    </div>
+    <div class="image3">
+        Gallery Image
+    </div>
+    <div class="image4">
+        Gallery Image
+    </div>
+    <div class="image5">
+        Gallery Image
+    </div>
+</div>
+
+
+      </body>
+      <footer>
+        <div class="foot">
+            <div class="le">Copyright &copy; 2022 </div>
+            <div class="re">Designed by Dinbandhu Kumar</div>
+        </div>
+      </footer>
+      </html> 
